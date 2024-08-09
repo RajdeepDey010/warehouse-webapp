@@ -1,0 +1,38 @@
+.side-nav {
+    margin-top: 1em;
+    padding: 0.6em;
+    box-shadow: 1px 0px 14px 0px lightgray;
+    height: max-content;
+    border-radius: 1em;
+    background-color: beige;
+}
+
+.title {
+    padding: 1em;
+}
+
+.title h3 {
+    text-align: center;
+}
+
+.section-title h3 {
+    text-align: center;
+}
+
+.individual-category ul {
+    padding: 0;
+}
+
+.individual-category .sub-items {
+    text-align: left;
+    margin-bottom: 0.5em;
+    list-style-type: none;
+}
+
+.individual-category a {
+    text-decoration: none;
+    color: black;
+}
+
+.form-range{
+}

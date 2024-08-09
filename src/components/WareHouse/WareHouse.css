@@ -1,0 +1,27 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-container .main-card {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    box-shadow: 3px 1px 14px 0px lightgray;
+    border-radius: 0.6em;
+}
+
+.main-card .card-btn {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin-top: 1em;
+    width: 100%;
+    height: 2em;
+}
+
+.main-card .card-btn:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px #dcdcdc;
+}
